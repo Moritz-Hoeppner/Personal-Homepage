@@ -1,0 +1,9 @@
+{
+  "name": "",
+  "description": "<h1> The code behind the face </h1> This is the code behind my little website www.moritzhoppner.com",
+  "version": "",
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  }
+}
